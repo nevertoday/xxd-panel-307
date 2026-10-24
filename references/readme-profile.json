@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 307｜Little Home Note: keeps the photo and compresses a remembered moment into one small, warm domestic icon — soft rounded flat colour blocks and slightly clumsy, imperfect hand-drawn contours, coloured-pencil and wax-pastel grain, dry-brush pigment, slight fading and a matte old-paper surface. A gentle lived-in palette such as milk white, mist blue, sage green, mustard yellow, coral orange and soft pink; the icon floats small in wide whitespace, and any text is a tiny elegant hand-printed label rather than a title. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-307 or asks for a cosy, warm, naive domestic icon, home-life symbol or tactile little mark from a photo.",
+  "short_description": "生活小记：把照片里被记住的瞬间收成一个圆润、干刷纸感的温暖生活小符号",
+  "zh-CN": {
+    "name": "生活小记",
+    "tagline": "保留原照片，把一个被记住的瞬间收成一个温暖的生活小符号。",
+    "look": "照片保持原样，设计部分只取一眼就有感觉的那个形：圆润的大色块配上略笨、不对称的手绘轮廓，比例不追求准确。表面有彩铅和蜡笔的颗粒、干刷痕迹和轻微掉色，哑光，像印在旧纸上。颜色温和有生活气，如奶白、雾蓝、鼠尾草绿、芥末黄、珊瑚橙、柔粉。符号很小，像漂在空白里；如果有文字，只是一行细小优雅的标签字，不做标题。",
+    "traits": ["温暖现代", "圆润色块", "干刷纸感", "生活气息", "小尺度留白"],
+    "good": [
+      "家里的小物和日常瞬间：一壶茶、一只拖鞋、窝在沙发上的猫、晾着的衣服",
+      "有温度的私人照片：早餐桌、窗边的植物、抱着杯子的手",
+      "想做成生活品牌标签、手作小店标识或家庭相册小图的照片"
+    ],
+    "poor": [
+      "宏大、紧张或冷硬的场面：工地、赛车、高楼夜景",
+      "需要讲清完整故事的多人场景：聚会、婚礼全程",
+      "想要过度可爱的卡通、完美矢量图标或 3D 效果的需求"
+    ]
+  },
+  "en": {
+    "name": "Little Home Note",
+    "tagline": "Keeps your photo and turns one remembered moment into a small, warm domestic symbol.",
+    "look": "The photo stays as it is. The design keeps only the shape that carries the feeling: soft, rounded colour blocks with slightly clumsy, asymmetric hand-drawn contours, with no attempt at exact proportions. The surface shows coloured-pencil and wax-pastel grain, dry-brush marks and slight fading, matte as if printed on old paper. Colours are gentle and lived-in, such as milk white, mist blue, sage green, mustard yellow, coral orange and soft pink. The symbol is small and seems to float in empty space; any text is one tiny, elegant label line, never a title.",
+    "traits": ["Warm modern", "Rounded colour blocks", "Dry-brush paper", "Everyday life", "Small scale, wide space"],
+    "good": [
+      "Small things and moments at home: a teapot, a slipper, a cat curled on the sofa, laundry drying",
+      "Warm personal photos: a breakfast table, a plant by the window, hands holding a mug",
+      "Photos you want as a lifestyle-brand label, a craft shop mark or a little image for a family album"
+    ],
+    "poor": [
+      "Grand, tense or hard-edged scenes: construction sites, racing cars, city towers at night",
+      "Group scenes that need a full story told: parties, a whole wedding",
+      "Wanting over-cute cartoons, perfect vector icons or 3D"
+    ]
+  },
+  "ja": {
+    "name": "暮らしの小記",
+    "tagline": "写真はそのままに、心に残ったひとときを温かな暮らしの小さなシンボルにします。",
+    "look": "写真はそのまま残し、デザイン側は見た瞬間に気持ちが動くその形だけを取り出します。丸みのある大きな色面に、少し不器用で左右非対称な手描きの輪郭を合わせ、比率の正確さは求めません。表面には色鉛筆やクレヨンの粒子、ドライブラシの跡、わずかな色抜けがあり、古い紙に刷ったようなマットな質感です。色は穏やかで暮らしの気配があり、ミルクホワイト、霧のような青、セージグリーン、マスタード、コーラルオレンジ、淡いピンクなどです。シンボルは小さく余白に浮かぶように置かれ、文字があっても細く上品なラベルの一行で、見出しにはしません。",
+    "traits": ["温かなモダン", "丸い色面", "ドライブラシと紙", "暮らしの気配", "小さく、広い余白"],
+    "good": [
+      "家の小物や日常のひととき：ティーポット、スリッパ、ソファで丸くなる猫、干した洗濯物",
+      "ぬくもりのある私的な写真：朝食のテーブル、窓辺の植物、マグカップを包む手",
+      "暮らしのブランドのラベル、手仕事の店のマーク、家族アルバムの小さな絵にしたい写真"
+    ],
+    "poor": [
+      "壮大、緊迫、硬質な場面：工事現場、レーシングカー、夜の高層ビル",
+      "物語全体を伝える必要がある大勢の場面：パーティー、結婚式の一部始終",
+      "かわいすぎるキャラクター、完璧なベクターアイコン、3D を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "일상의 작은 기록",
+    "tagline": "원래 사진은 그대로 두고, 기억에 남은 한 순간을 따뜻한 생활의 작은 심벌로 담습니다.",
+    "look": "사진은 그대로 두고, 디자인 쪽은 보자마자 마음이 가는 그 형태만 가져옵니다. 둥글고 부드러운 큰 색면에 조금 서툴고 비대칭인 손그림 윤곽을 더하며, 비율은 정확함을 따지지 않습니다. 표면에는 색연필과 크레용 입자, 마른 붓 자국, 살짝 바랜 색이 남아 있어 옛 종이에 찍은 듯한 무광 느낌입니다. 색은 온화하고 생활의 기운이 있어 밀크 화이트, 안개 낀 파랑, 세이지 그린, 머스터드, 코랄 오렌지, 연분홍 같은 색을 씁니다. 심벌은 작게 여백 속에 떠 있는 듯 놓이고, 글자가 있다면 가늘고 단정한 라벨 한 줄일 뿐 제목은 아닙니다.",
+    "traits": ["따뜻한 모던", "둥근 색면", "마른 붓과 종이", "생활의 기운", "작은 크기, 넓은 여백"],
+    "good": [
+      "집 안의 작은 물건과 일상의 순간: 찻주전자, 슬리퍼, 소파에 웅크린 고양이, 널어 둔 빨래",
+      "온기 있는 개인 사진: 아침 식탁, 창가의 화분, 머그컵을 감싼 손",
+      "생활 브랜드 라벨, 공방 마크, 가족 앨범 속 작은 그림으로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "웅장하거나 긴박하거나 딱딱한 장면: 공사 현장, 레이싱카, 밤의 고층 빌딩",
+      "이야기 전체를 전해야 하는 여러 사람의 장면: 파티, 결혼식 전 과정",
+      "지나치게 귀여운 캐릭터, 완벽한 벡터 아이콘, 3D를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "مذكرة منزلية صغيرة",
+    "tagline": "يحتفظ بصورتك ويحوّل لحظة عالقة في الذاكرة إلى رمز منزلي صغير دافئ.",
+    "look": "تبقى الصورة كما هي، ولا يأخذ التصميم إلا الشكل الذي يحمل الإحساس: مساحات لونية مستديرة ناعمة بخطوط يدوية خرقاء قليلاً وغير متناظرة، من دون سعي إلى دقة النِّسب. على السطح حبيبات الأقلام الملوّنة وأقلام الشمع وآثار الفرشاة الجافة وبهتان خفيف، بملمس مطفأ كأنه مطبوع على ورق قديم. الألوان هادئة فيها روح البيت، مثل أبيض الحليب والأزرق الضبابي وأخضر المريمية والأصفر الخردلي والبرتقالي المرجاني والوردي الناعم. الرمز صغير كأنه يطفو في الفراغ، والنص إن وُجد سطر رقيق أنيق كبطاقة صغيرة، لا عنوان.",
+    "traits": ["حداثة دافئة", "مساحات لونية مستديرة", "فرشاة جافة وورق", "روح الحياة اليومية", "حجم صغير وفراغ واسع"],
+    "good": [
+      "أشياء صغيرة ولحظات في البيت: إبريق شاي، خُفّ، قطة متكوّرة على الأريكة، غسيل منشور",
+      "صور شخصية دافئة: مائدة فطور، نبتة قرب النافذة، يدان تحيطان بكوب",
+      "صور تريدها بطاقةً لعلامة أسلوب حياة أو علامةً لمتجر حِرف يدوية أو رسماً صغيراً لألبوم العائلة"
+    ],
+    "poor": [
+      "مشاهد ضخمة أو متوترة أو صلبة: مواقع البناء، سيارات السباق، أبراج المدينة ليلاً",
+      "مشاهد جماعية تحتاج إلى سرد القصة كاملة: الحفلات، عرس من أوله إلى آخره",
+      "الرغبة في كرتون مفرط اللطافة أو أيقونات متجهية مثالية أو مجسّمات ثلاثية الأبعاد"
+    ]
+  }
+}

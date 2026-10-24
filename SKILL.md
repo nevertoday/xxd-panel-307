@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-307
-description: "Create XXD Panel 307 raster artwork: a faithful photograph paired with one small warm domestic icon, rounded color blocks, dry brush and a large quiet field. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-307 or asks for this 生活小记 style."
+description: "XXD Panel 307｜Little Home Note: keeps the photo and compresses a remembered moment into one small, warm domestic icon — soft rounded flat colour blocks and slightly clumsy, imperfect hand-drawn contours, coloured-pencil and wax-pastel grain, dry-brush pigment, slight fading and a matte old-paper surface. A gentle lived-in palette such as milk white, mist blue, sage green, mustard yellow, coral orange and soft pink; the icon floats small in wide whitespace, and any text is a tiny elegant hand-printed label rather than a title. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-307 or asks for a cosy, warm, naive domestic icon, home-life symbol or tactile little mark from a photo."
 ---
 
 # XXD Panel 307
